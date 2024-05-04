@@ -1,0 +1,13 @@
+#top-box{
+    height: 400px;
+    width: 1200px;
+    background-color: #0057B7;
+    position: relative;
+}
+#top-box > #bottom-box{
+    height: 200px;
+    width: 1200px;
+    background-color: #FFDD00;
+    position: absolute;
+    top: 200px;
+}
